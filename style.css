@@ -50,3 +50,20 @@ input, textarea {
     padding:5px;
     margin:5px
 }
+
+
+.btn{
+    background-color: brown;
+    height: 200px;
+}
+
+.lead{
+    font-size: 50px;
+    color: cyan;
+    
+}
+
+.jumbotron{
+    background-color: darkblue;
+
+}
